@@ -30,7 +30,7 @@
   "author": "Tristan Camejo <contact@tristancamejo.com>",
   "license": "Apache-2.0",
   "dependencies": {
-    "@grpc/grpc-js": "^1.6.7",
+    "@grpc/grpc-js": "^1.6.8",
     "@prisma/client": "^4.0.0"
   },
   "devDependencies": {
