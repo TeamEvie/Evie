@@ -41,7 +41,7 @@
 		"@sapphire/plugin-i18next": "^2.5.4",
 		"@sapphire/plugin-logger": "^2.2.3",
 		"@sapphire/shapeshift": "^3.5.1",
-		"@sentry/integrations": "^6.19.7",
+		"@sentry/integrations": "^7.4.1",
 		"@sentry/node": "^6.19.7",
 		"@sentry/tracing": "^6.19.7",
 		"axios": "^0.27.2",
