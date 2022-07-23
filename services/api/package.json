@@ -42,7 +42,7 @@
 	"devDependencies": {
 		"@types/module-alias": "^2",
 		"@types/node": "^18.0.6",
-		"@types/passport-discord": "^0.1.5",
+		"@types/passport-discord": "^0.1.6",
 		"@types/ws": "^8.5.3",
 		"rimraf": "^3.0.2"
 	}
